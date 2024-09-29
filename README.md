@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokosam&layout=compact&theme=transparent&langs_count=6&card_width=255&exclude_repo=course_notes"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokosam&layout=compact&theme=transparent&langs_count=6&card_width=255&exclude_repo=course_notes&hide=html,css"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sokosam&theme=transparent&show_icons=true&hide=issues"/>
 </p>
 
