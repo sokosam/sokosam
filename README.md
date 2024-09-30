@@ -6,7 +6,7 @@
 
 <div align="center">
   <img alt="GitHub Metrics" src="/github-metrics.svg" width="45%"/>
-  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="45%"/>
+  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.svg"width="45%"/>
   <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="33%"/>
 </div>
 
