@@ -64,15 +64,15 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x268</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x127</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x126</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x126</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x75</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x65</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x63</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x64</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x62</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x52</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x46</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x45</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x45</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
