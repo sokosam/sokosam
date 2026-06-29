@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="58.07342217752075 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">702</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="58.238873522755846 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">704</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3977</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.61198738170347 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">207</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.95793901156676 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">208</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/951</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.48868560423688 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">445</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.64708714492056 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">446</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2077</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x411</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x185</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x177</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x412</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x186</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x178</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x108</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x104</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x88</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x82</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x73</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x71</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x58</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x72</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x59</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Element After Decreasing and Rearranging</div>
-                            <div class="date">28 Jun 2026</div>
+                            <div class="title">Number of Strings That Appear as Substrings in Word</div>
+                            <div class="date">29 Jun 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Process String with Special Operations I</div>
-                            <div class="date">19 Jun 2026</div>
+                            <div class="title">Clone Binary Tree With Random Pointer</div>
+                            <div class="date">29 Jun 2026</div>
                         </div>
                     </div>
                 </section>
